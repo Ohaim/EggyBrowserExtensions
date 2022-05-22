@@ -11,7 +11,7 @@ Extensions are not released on the Chrome webstore, just made for the memes.
 3. Open the Chrome Browser and enter `chrome://extensions/` into the URL bar
 4. Now click on the "Developer Mode" toggle to activate Developer Mode
 
-![](/assets/dev-toggle.png)
+![](https://github.com/Ohaim/EggyChromeExtensions/blob/master/assets/dev-toggle.PNG)
 
 5. Click on the button with the text `Load unpacked`
 6. Navigate to the extension folder, select it and click `Select Folder`
