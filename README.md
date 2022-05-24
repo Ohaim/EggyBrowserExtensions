@@ -2,7 +2,7 @@
 
 ## Just a little fun repo :)
 
-Extensions are not released on the Chrome webstore, just made for the memes.  
+Extensions are not released on the Chrome webstore (or the Firefox Addon store thingy), just made for the memes.  
 [Check out LilEggy666 on Twitch!](https://twitch.com/lileggy666)
 
 ## How to install (Chrome)
